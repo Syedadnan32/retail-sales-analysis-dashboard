@@ -1,4 +1,4 @@
-**Blinkit Grocery Sales Analysis**
+********Blinkit Grocery Sales Analysis********
 
 This project analyzes Blinkit grocery sales data using Power BI to generate actionable business insights.
 The dashboard provides a comprehensive view of sales performance, customer behavior, and outlet distribution.
@@ -40,6 +40,34 @@ Understand customer preferences (outlet size, fat content)
 
 Optimize inventory and marketing strategies
 
+**📌 Use Case**
 
+This dashboard can be used by:
 
+Investors – to identify growth opportunities in retail
+
+Analysts – to evaluate category and outlet performance
+
+Businesses – to optimize inventory and marketing strategies
+
+**🛠 Tools & Technologies**
+
+Power BI → Dashboard creation & data visualization
+
+Excel → Data cleaning and preparation
+
+SQL → Data manipulation & storage
+
+**🧑‍🎓 About Me**
+
+I’m Syed Adnan, currently a Data Analyst Intern at Zidio Development and pursuing an MBA at Lords Institute of Technology.
+My interests lie in business analytics, forecasting, and dashboarding.
+
+**📬 Contact**
+
+📧 Email: syedadnan1870@gmail.com
+
+📞 Mobile: +91-9177931381
+
+🔗 LinkedIn: www.linkedin.com/in/syedadnan1230
 
